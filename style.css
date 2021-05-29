@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    font-size: 20px;
+    margin: 20px;
+    color: royalblue;
+}
+
+a:hover {
+    color: purple;
+    background-color: lightblue;
+}
+h1{
+    color:purple;
+}
